@@ -17,36 +17,39 @@ This program allows the user to perform basic arithmetic operations multiple tim
 
 ```bash
 git clone https://github.com/SudhanshuD13/Calculator-Java.git
-
-
-**2. Navigate to the project directory:**
+```
+2. Navigate to the project directory:
 
 ```bash
 cd Calculator-Java
 
-
-Compile the Java file:
+```
+3. Compile the Java file:
+```bash
 javac Calculator.java
+```
 
-
-Run the program:
+4. Run the program:
+```bash
 java Calculator
+```
 
-Sample Output:
-Calculator
+## Sample Output:
+**Calculator**
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 5. Exit
-Enter your choice: 1
-Enter the first number: 10
-Enter the second number: 5
-Addition of num1 and num2 : 15
+```
+    Enter your choice: 1
+    Enter the first number: 10
+    Enter the second number: 5
+    Addition of num1 and num2 : 15
+```
+## Author:
+**Sudhanshu Dubey**
 
-Author:
-Sudhanshu Dubey
-
-Notes:
-Ensure you have Java installed on your system (JDK 8 or higher).
-Division by zero is safely handled with an error message.
+## Notes:
+***Ensure you have Java installed on your system (JDK 8 or higher).***
+***Division by zero is safely handled with an error message.***
